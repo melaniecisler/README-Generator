@@ -22,3 +22,5 @@ Installation: Must use npm install inquirer --save
 Run: node index.js
 
 Authors and acknowledgment: Developed by Melanie Cisler
+
+Link to video demo:  https://drive.google.com/file/d/17XQYXRLW1wgQYrb99ZmnZC4Xlp3cibZJ/view  
