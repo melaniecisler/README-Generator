@@ -1,0 +1,22 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "making a readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git here"
+  },
+  "keywords": [
+    "yahh"
+  ],
+  "author": "friends",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "inquirer": "^7.3.3"
+  }
+}
