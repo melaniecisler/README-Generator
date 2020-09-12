@@ -16,5 +16,9 @@ Challenges:  Setting up my License list was a challenge but then realized that s
 Future development: Perhaps find a way to add in a gif or video link to my demo within the actual readme file 
 
 
-Installation: Using Chrome or a favorite browser copy link https://melaniecisler.github.io/README-Generator
+Installation: Must use npm install inquirer --save             
+  Using Chrome or a favorite browser copy link https://melaniecisler.github.io/README-Generator.  
+
+Run: node index.js
+
 Authors and acknowledgment: Developed by Melanie Cisler
