@@ -3,7 +3,8 @@ Created a command-line application that dynamically generates a professional REA
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/melaniecisler/README-Generator)
 
-![](readme.PNG)
+![](readme1.PNG)
+![](readme2.PNG)
 
 Name: README-Generator
 Description: Created a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
