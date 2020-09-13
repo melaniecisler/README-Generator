@@ -1,56 +1,56 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
     return `
-    # ${data.Title}
+  # ${data.Title}
     
     (https://github.com/${data.UserName}/${data.Title})
 
-    # License
+  # License
     ${data.License}
 
-    # Description
+  # Description
     ${data.Description}
     
-    # Table of Contents
+  # Table of Contents
     ${data.Contents}
 
-    * [Installation](#Installation)
+    [Installation](#installation)
 
-    * [Usage](#Usage)
+    [Usage](#usage)
 
-    * [License](#License)
+    [License](#license)
 
-    * [Contributing](#Contributing)
+    [Contributing](#contributing)
 
-    * [UserName](#UserName)
+    [UserName](#userName)
 
-    * [Email](#Email)
+    [Email](#email)
 
-    * [Tests](#Tests)
+    [Tests](#tests)
 
-    * [Questions](#Questions)
+    [Questions](#questions)
 
-    # Installation
+  # Installation
 
       You must run these applications for proper installation: ${data.Installation}
 
-    # Usage
+  # Usage
 
       This is for: ${data.Usage}
 
-    # License
+  # License
 
       This is licensed under: ${data.License}
 
-    # Contributions
+  # Contributions
 
       Contributors: ${data.Contributing}
 
-    # Tests
+  # Tests
 
       To run tests provide the following: ${data.Tests}
  
-    # Questions
+  # Questions
 
       Direct any follow up questions to my  github at   ${"https://github.com/" + data.UserName} or at ${data.Email} 
     `
