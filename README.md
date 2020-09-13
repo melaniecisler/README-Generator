@@ -44,21 +44,21 @@ Example Created:
     # Table of Contents
     Installation, Usage, License, Contributing, UserName, Email, Tests, Questions
 
-    * [Installation](#installation)
+    [Installation](#installation)
 
-    * [Usage](#usage)
+    [Usage](#usage)
 
-    * [License](#license)
+    [License](#license)
 
-    * [Contributing](#contributing)
+    [Contributing](#contributing)
 
-    * [UserName](#userName)
+    [UserName](#userName)
 
-    * [Email](#email)
+    [Email](#email)
 
-    * [Tests](#tests)
+    [Tests](#tests)
 
-    * [Questions](#questions)
+    [Questions](#questions)
 
     # Installation
 
