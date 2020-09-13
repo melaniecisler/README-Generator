@@ -1,52 +1,52 @@
 
-    # The Best README generator
+    # The Best README Generator on the Planet
     
-    (https://github.com/melaniecisler/The Best README generator)
+    (https://github.com/melaniecisler/The Best README Generator on the Planet)
 
     # License
-    Mozilla    MPL 2.0 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+    MIT   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     # Description
-    This is the Best README generator in the entire world that i made from the command line
+    This project created a command-line application that dynamically generates a professional README.md
     
     # Table of Contents
-    none so far
+    Installation, Usage, License, Contributing, UserName, Email, Tests, Questions
 
-    * [Installation](#Installation)
+    * [Installation](#installation)
 
-    * [Usage](#Usage)
+    * [Usage](#usage)
 
-    * [License](#License)
+    * [License](#license)
 
-    * [Contributing](#Contributing)
+    * [Contributing](#contributing)
 
-    * [UserName](#UserName)
+    * [UserName](#userName)
 
-    * [Email](#Email)
+    * [Email](#email)
 
-    * [Tests](#Tests)
+    * [Tests](#tests)
 
-    * [Questions](#Questions)
+    * [Questions](#questions)
 
     # Installation
 
-      You must run these applications for proper installation: install using inquirer
+      You must run these applications for proper installation: This is for when you need a readme file for any project
 
     # Usage
 
-      This is for: for generating quick readme files
+      This is for: use node index.js
 
     # License
 
-      This is licensed under: Mozilla    MPL 2.0 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+      This is licensed under: MIT   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     # Contributions
 
-      Contributors: my friends
+      Contributors: melaniecisler
 
     # Tests
 
-      To run tests provide the following: none
+      To run tests provide the following: run tests with node index.js
  
     # Questions
 
